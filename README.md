@@ -38,6 +38,13 @@
         <li><a href="#built-with">Built With</a></li>
       </ul>
     </li>
+    <li>
+      <a href="#getting-started">Getting Started</a>
+      <ul>
+        <li><a href="#prerequisites">Prerequisites</a></li>
+        <li><a href="#installation">Installation</a></li>
+      </ul>
+    </li>
     <li><a href="#contributing">Contributing</a></li>
     <!-- <li><a href="#contact">Contact</a></li> -->
 
@@ -62,7 +69,31 @@ In Mexico, less than 5% of 15-year-olds meet the level required to perform high 
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
+## Getting Started
 
+### Prerequisites
+
+- pip packages
+
+  ```bash
+  pip3 install pyfiglet requests beautifulsoup4 unidecode
+  ```
+
+### Installation
+
+1. Clone the repo
+
+   ```sh
+   git clone https://github.com/josecarlosmemo/aprendiendo-y-jugando.git
+   ```
+
+2. Run `main.py`
+
+   ```sh
+   python3 main.py
+   ```
+
+<p align="right">(<a href="#top">back to top</a>)</p>
 
 <!-- CONTRIBUTING -->
 
@@ -92,7 +123,6 @@ Project Link: [https://github.com/josecarlosmemo/aprendiendo-y-jugando](https://
 <p align="right">(<a href="#top">back to top</a>)</p> -->
 
 <!-- ACKNOWLEDGMENTS -->
-
 
 [contributors-shield]: https://img.shields.io/github/contributors/josecarlosmemo/aprendiendo-y-jugando.svg?style=for-the-badge
 [contributors-url]: https://github.com/josecarlosmemo/aprendiendo-y-jugando/graphs/contributors
